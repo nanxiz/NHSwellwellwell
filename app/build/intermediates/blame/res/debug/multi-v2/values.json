@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/nanxizhang/Desktop/MyFirstApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/nanxizhang/Desktop/MyFirstApp 3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/dd7d15238f8a6cbc7d7ec5a46a8ae293/res/values/values.xml",
@@ -18,6 +18,25 @@
                         "startOffsets": "104812",
                         "endColumns": "65",
                         "endOffsets": "104873"
+                    }
+                },
+                {
+                    "source": "/Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "54",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "396"
+                    },
+                    "to": {
+                        "startLines": "1816",
+                        "startColumns": "4",
+                        "startOffsets": "108252",
+                        "endLines": "1821",
+                        "endColumns": "12",
+                        "endOffsets": "108594"
                     }
                 },
                 {
@@ -95,7 +114,7 @@
                     }
                 },
                 {
-                    "source": "/Users/nanxizhang/Desktop/MyFirstApp/app/src/main/res/values/colors.xml",
+                    "source": "/Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/res/values/colors.xml",
                     "from": {
                         "startLines": "8,9,28,26,27,25,4,6,5,17,7,20,21,19,16,18,10,11,13,14,22,12,15,2,3,23,24",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -109,6 +128,23 @@
                         "startOffsets": "6313,6353,7801,7843,7883,7926,8214,8260,8304,8353,8408,8455,8505,8561,8612,8663,8720,8768,8822,8876,8925,8980,9029,9078,9125,9176,9233",
                         "endColumns": "39,39,41,39,42,38,45,43,48,54,46,49,55,50,50,56,47,53,53,48,54,48,48,46,50,56,52",
                         "endOffsets": "6348,6388,7838,7878,7921,7960,8255,8299,8348,8403,8450,8500,8556,8607,8658,8715,8763,8817,8871,8920,8975,9024,9073,9120,9171,9228,9281"
+                    }
+                },
+                {
+                    "source": "/Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "49",
+                        "endOffsets": "61"
+                    },
+                    "to": {
+                        "startLines": "1808",
+                        "startColumns": "4",
+                        "startOffsets": "107636",
+                        "endColumns": "49",
+                        "endOffsets": "107681"
                     }
                 },
                 {
@@ -147,25 +183,6 @@
                         "endLines": "11,159,160,161,162,872,1698,1699,1700,1849,2890,2893,2896",
                         "endColumns": "51,60,61,61,63,24,58,56,53,12,12,12,12",
                         "endOffsets": "504,8021,8083,8145,8209,47122,100565,100622,100676,110459,176999,177125,177253"
-                    }
-                },
-                {
-                    "source": "/Users/nanxizhang/Desktop/MyFirstApp/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "54",
-                        "endLines": "8",
-                        "endColumns": "12",
-                        "endOffsets": "396"
-                    },
-                    "to": {
-                        "startLines": "1816",
-                        "startColumns": "4",
-                        "startOffsets": "108252",
-                        "endLines": "1821",
-                        "endColumns": "12",
-                        "endOffsets": "108594"
                     }
                 },
                 {
@@ -238,23 +255,6 @@
                         "startOffsets": "79025",
                         "endColumns": "288",
                         "endOffsets": "79309"
-                    }
-                },
-                {
-                    "source": "/Users/nanxizhang/Desktop/MyFirstApp/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "49",
-                        "endOffsets": "61"
-                    },
-                    "to": {
-                        "startLines": "1808",
-                        "startColumns": "4",
-                        "startOffsets": "107636",
-                        "endColumns": "49",
-                        "endOffsets": "107681"
                     }
                 }
             ]

@@ -714,6 +714,8 @@ drawable bluequ
 drawable button_blue_round
 drawable button_light_blue_round
 drawable button_pdf_share_round
+drawable button_square
+drawable button_square_white
 drawable calendar
 drawable circle
 drawable circle_black
@@ -1006,7 +1008,13 @@ id usagegraphbutton
 id useLogo
 id vPager
 id view
+id viewActivity
+id viewActivity2
 id viewPager
+id viewScore
+id viewScore2
+id viewStats
+id viewStats2
 id waysinfo
 id withText
 id wrap
