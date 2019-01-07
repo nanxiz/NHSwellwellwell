@@ -1,0 +1,335 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-88:12
+INJECTED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-88:12
+INJECTED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-88:12
+INJECTED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-88:12
+MERGED from [com.amitshekhar.android:debug-db:1.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/dd7d15238f8a6cbc7d7ec5a46a8ae293/AndroidManifest.xml:20:1-40:12
+MERGED from [com.github.ceryle:SegmentedButton:v1.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/SegmentedButton-v1.0.aar/a0da9e1d3bf28dfe6e1a36fd4f824655/AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.msayan:tutorial-view:v1.0.1] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/tutorial-view-v1.0.1.aar/4e4506927f74fc8060663e99fb1e3d0b/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/7240a7cf4ed0da52bd01801999fd51e0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/c49af33d93468fc449895e2a2ff36f3f/AndroidManifest.xml:2:1-11:12
+MERGED from [me.everything:providers-android:1.0.1] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/providers-android-1.0.1.aar/f551714ef68f08031018a1c9c21f736d/AndroidManifest.xml:2:1-16:12
+MERGED from [org.tensorflow:tensorflow-android:1.12.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/tensorflow-android-1.12.0.aar/9a03bee3296b55f5bc0c9dea221108b8/AndroidManifest.xml:2:1-8:12
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.1] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/android-pdf-viewer-2.8.1.aar/83bc01bf379e3a788eeb481bdf2c025e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/pdfium-android-1.7.1.aar/a55439a26495398074e68bb07fd5294f/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-alpha3.aar/0bb2b313bfe55a145c647135896a1f0f/AndroidManifest.xml:17:1-22:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.16] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.2.16.aar/b913ba5cbe0a1052b51390a49d35fc7f/AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/389d85b631b751951c8ad66fcc788819/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/2d03d2785af7a1b7aaeddd8ef3e8196e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/a1bfa5f612e7429966ed2400e8ce1aae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/0162225f718c3e4a3d54948f44f1c742/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/5e27eb18544e008e2179650974d16a65/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/0d322d3a90aabd8d52aa3fc842653106/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/ee8257b3e32ae36155e94e0ad4a84d3e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/19a88faa8348467567d4f5107ad33be2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/bca343484b6c57a6779b74398424f409/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/bfbaf9c27af0209bcd3e7663bd0da62c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/16eee1bc16fe67a5b3f7434638bf7beb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/8fd698f145b7df61b6da69cb96919235/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/7e79465c4bb7c074c2822314c3c2ac04/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/e3159e344de1eba1c8ac47450e1094b6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-alpha3.aar/9b78e2b269860fe9bba4d9ad3841143c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/4da636900b9d15a5caefbe9be165bab1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/7b9df2a463e371abb149e4a7e08b0d22/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9a40467a42b1470daf554318b6c3c26a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/38f0beb8b0c9c734aedc118fec0615cf/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/1e766cf799849dec419bd439ce8b7932/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/fd94231aa87ff73c3aa838362d8d9fc7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/f6c84a153877c29852c31f316c3ef212/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/81f77f2ce367e2ceff503229da429fe5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d5ae884bbdaf81726eba01005af4d541/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/59a5c3cbaf42c2af1b9767a10213b956/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/57eb38aeab0f302fa013eca128aa7711/AndroidManifest.xml:17:1-22:12
+MERGED from [me.everything:providers-core:1.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/providers-core-1.0.0.aar/fb13fb9d4aa5d7e7b666cd2ea96cd7b0/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-88:12
+INJECTED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-88:12
+INJECTED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-88:12
+	package
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:4:5-48
+		INJECTED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-88:12
+		INJECTED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-88:12
+		INJECTED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_SMS
+ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:7:5-72
+	android:name
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:7:22-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:10:5-77
+	android:name
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:10:22-74
+uses-permission#android.permission.PACKAGE_USAGE_STATS
+ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:11:5-13:47
+	tools:ignore
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:13:9-44
+	android:name
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:12:9-62
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:14:5-16:47
+	android:protectionLevel
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:16:9-44
+	android:name
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:15:9-54
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:17:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:18:22-78
+application
+ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:20:5-86:19
+MERGED from [com.amitshekhar.android:debug-db:1.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/dd7d15238f8a6cbc7d7ec5a46a8ae293/AndroidManifest.xml:32:5-38:19
+MERGED from [com.amitshekhar.android:debug-db:1.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/dd7d15238f8a6cbc7d7ec5a46a8ae293/AndroidManifest.xml:32:5-38:19
+MERGED from [com.github.msayan:tutorial-view:v1.0.1] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/tutorial-view-v1.0.1.aar/4e4506927f74fc8060663e99fb1e3d0b/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.msayan:tutorial-view:v1.0.1] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/tutorial-view-v1.0.1.aar/4e4506927f74fc8060663e99fb1e3d0b/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/c49af33d93468fc449895e2a2ff36f3f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/c49af33d93468fc449895e2a2ff36f3f/AndroidManifest.xml:9:5-20
+MERGED from [me.everything:providers-android:1.0.1] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/providers-android-1.0.1.aar/f551714ef68f08031018a1c9c21f736d/AndroidManifest.xml:11:5-14:19
+MERGED from [me.everything:providers-android:1.0.1] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/providers-android-1.0.1.aar/f551714ef68f08031018a1c9c21f736d/AndroidManifest.xml:11:5-14:19
+MERGED from [org.tensorflow:tensorflow-android:1.12.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/tensorflow-android-1.12.0.aar/9a03bee3296b55f5bc0c9dea221108b8/AndroidManifest.xml:5:5-6:19
+MERGED from [org.tensorflow:tensorflow-android:1.12.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/tensorflow-android-1.12.0.aar/9a03bee3296b55f5bc0c9dea221108b8/AndroidManifest.xml:5:5-6:19
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/4da636900b9d15a5caefbe9be165bab1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/4da636900b9d15a5caefbe9be165bab1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/38f0beb8b0c9c734aedc118fec0615cf/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/38f0beb8b0c9c734aedc118fec0615cf/AndroidManifest.xml:22:5-23:19
+MERGED from [me.everything:providers-core:1.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/providers-core-1.0.0.aar/fb13fb9d4aa5d7e7b666cd2ea96cd7b0/AndroidManifest.xml:11:5-14:19
+MERGED from [me.everything:providers-core:1.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/providers-core-1.0.0.aar/fb13fb9d4aa5d7e7b666cd2ea96cd7b0/AndroidManifest.xml:11:5-14:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/4da636900b9d15a5caefbe9be165bab1/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:23:9-41
+	android:roundIcon
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:24:9-54
+	android:icon
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:26:9-40
+activity#com.example.jakesetton.myfirstapp.MainActivity
+ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:27:9-35:20
+	android:screenOrientation
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:29:13-49
+	android:name
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:28:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:33:27-74
+service#com.example.jakesetton.myfirstapp.TheService
+ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:37:9-39:38
+	android:enabled
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:39:13-35
+	android:name
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:38:13-39
+activity#com.example.jakesetton.myfirstapp.LiveSensors
+ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:41:9-43:52
+	android:screenOrientation
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:43:13-49
+	android:name
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:42:13-40
+receiver#com.example.jakesetton.myfirstapp.BootBroadcastReceiver
+ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:45:9-49:20
+	android:name
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:45:19-56
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:46:13-48:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:47:17-79
+	android:name
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:47:25-76
+receiver#com.example.jakesetton.myfirstapp.Alarm
+ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:50:9-57:20
+	android:enabled
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:52:13-35
+	android:exported
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:51:13-34
+activity#com.example.jakesetton.myfirstapp.First
+ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:59:9-61:52
+	android:screenOrientation
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:61:13-49
+	android:name
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:60:13-34
+activity#com.example.jakesetton.myfirstapp.WelcomeRegister
+ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:62:9-64:52
+	android:screenOrientation
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:64:13-49
+	android:name
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:63:13-44
+activity#com.example.jakesetton.myfirstapp.AboutPage
+ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:65:9-67:52
+	android:screenOrientation
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:67:13-49
+	android:name
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:66:13-38
+activity#com.example.jakesetton.myfirstapp.MonitoringInfo
+ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:68:9-70:52
+	android:screenOrientation
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:70:13-49
+	android:name
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:69:13-43
+activity#com.example.jakesetton.myfirstapp.ScoreHistory
+ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:71:9-73:52
+	android:screenOrientation
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:73:13-49
+	android:name
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:72:13-41
+provider#android.support.v4.content.FileProvider
+ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:75:9-83:20
+	android:grantUriPermissions
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:79:13-47
+	android:authorities
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:77:13-77
+	android:exported
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:78:13-37
+	android:name
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:76:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:80:13-82:58
+	android:resource
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:82:17-55
+	android:name
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:81:17-67
+activity#com.example.jakesetton.myfirstapp.ViewPDFActivity
+ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:85:9-62
+	android:name
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:85:19-50
+uses-sdk
+INJECTED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml
+MERGED from [com.amitshekhar.android:debug-db:1.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/dd7d15238f8a6cbc7d7ec5a46a8ae293/AndroidManifest.xml:25:5-27:41
+MERGED from [com.amitshekhar.android:debug-db:1.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/dd7d15238f8a6cbc7d7ec5a46a8ae293/AndroidManifest.xml:25:5-27:41
+MERGED from [com.github.ceryle:SegmentedButton:v1.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/SegmentedButton-v1.0.aar/a0da9e1d3bf28dfe6e1a36fd4f824655/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.ceryle:SegmentedButton:v1.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/SegmentedButton-v1.0.aar/a0da9e1d3bf28dfe6e1a36fd4f824655/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.msayan:tutorial-view:v1.0.1] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/tutorial-view-v1.0.1.aar/4e4506927f74fc8060663e99fb1e3d0b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.msayan:tutorial-view:v1.0.1] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/tutorial-view-v1.0.1.aar/4e4506927f74fc8060663e99fb1e3d0b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/7240a7cf4ed0da52bd01801999fd51e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/7240a7cf4ed0da52bd01801999fd51e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/c49af33d93468fc449895e2a2ff36f3f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/c49af33d93468fc449895e2a2ff36f3f/AndroidManifest.xml:5:5-7:41
+MERGED from [me.everything:providers-android:1.0.1] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/providers-android-1.0.1.aar/f551714ef68f08031018a1c9c21f736d/AndroidManifest.xml:7:5-9:41
+MERGED from [me.everything:providers-android:1.0.1] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/providers-android-1.0.1.aar/f551714ef68f08031018a1c9c21f736d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.1] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/android-pdf-viewer-2.8.1.aar/83bc01bf379e3a788eeb481bdf2c025e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.1] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/android-pdf-viewer-2.8.1.aar/83bc01bf379e3a788eeb481bdf2c025e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/pdfium-android-1.7.1.aar/a55439a26495398074e68bb07fd5294f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/pdfium-android-1.7.1.aar/a55439a26495398074e68bb07fd5294f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-alpha3.aar/0bb2b313bfe55a145c647135896a1f0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-alpha3.aar/0bb2b313bfe55a145c647135896a1f0f/AndroidManifest.xml:20:5-44
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.16] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.2.16.aar/b913ba5cbe0a1052b51390a49d35fc7f/AndroidManifest.xml:6:5-8:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.16] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.2.16.aar/b913ba5cbe0a1052b51390a49d35fc7f/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/389d85b631b751951c8ad66fcc788819/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/389d85b631b751951c8ad66fcc788819/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/2d03d2785af7a1b7aaeddd8ef3e8196e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/2d03d2785af7a1b7aaeddd8ef3e8196e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/a1bfa5f612e7429966ed2400e8ce1aae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/a1bfa5f612e7429966ed2400e8ce1aae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/0162225f718c3e4a3d54948f44f1c742/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/0162225f718c3e4a3d54948f44f1c742/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/5e27eb18544e008e2179650974d16a65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/5e27eb18544e008e2179650974d16a65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/0d322d3a90aabd8d52aa3fc842653106/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/0d322d3a90aabd8d52aa3fc842653106/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/ee8257b3e32ae36155e94e0ad4a84d3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/ee8257b3e32ae36155e94e0ad4a84d3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/19a88faa8348467567d4f5107ad33be2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/19a88faa8348467567d4f5107ad33be2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/bca343484b6c57a6779b74398424f409/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/bca343484b6c57a6779b74398424f409/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/bfbaf9c27af0209bcd3e7663bd0da62c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/bfbaf9c27af0209bcd3e7663bd0da62c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/16eee1bc16fe67a5b3f7434638bf7beb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/16eee1bc16fe67a5b3f7434638bf7beb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/8fd698f145b7df61b6da69cb96919235/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/8fd698f145b7df61b6da69cb96919235/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/7e79465c4bb7c074c2822314c3c2ac04/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/7e79465c4bb7c074c2822314c3c2ac04/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/e3159e344de1eba1c8ac47450e1094b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/e3159e344de1eba1c8ac47450e1094b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-alpha3.aar/9b78e2b269860fe9bba4d9ad3841143c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-alpha3.aar/9b78e2b269860fe9bba4d9ad3841143c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/4da636900b9d15a5caefbe9be165bab1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/4da636900b9d15a5caefbe9be165bab1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/7b9df2a463e371abb149e4a7e08b0d22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/7b9df2a463e371abb149e4a7e08b0d22/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9a40467a42b1470daf554318b6c3c26a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9a40467a42b1470daf554318b6c3c26a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/38f0beb8b0c9c734aedc118fec0615cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/38f0beb8b0c9c734aedc118fec0615cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/1e766cf799849dec419bd439ce8b7932/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/1e766cf799849dec419bd439ce8b7932/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/fd94231aa87ff73c3aa838362d8d9fc7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/fd94231aa87ff73c3aa838362d8d9fc7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/f6c84a153877c29852c31f316c3ef212/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/f6c84a153877c29852c31f316c3ef212/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/81f77f2ce367e2ceff503229da429fe5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/81f77f2ce367e2ceff503229da429fe5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d5ae884bbdaf81726eba01005af4d541/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d5ae884bbdaf81726eba01005af4d541/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/59a5c3cbaf42c2af1b9767a10213b956/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/59a5c3cbaf42c2af1b9767a10213b956/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/57eb38aeab0f302fa013eca128aa7711/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/57eb38aeab0f302fa013eca128aa7711/AndroidManifest.xml:20:5-44
+MERGED from [me.everything:providers-core:1.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/providers-core-1.0.0.aar/fb13fb9d4aa5d7e7b666cd2ea96cd7b0/AndroidManifest.xml:7:5-9:41
+MERGED from [me.everything:providers-core:1.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/providers-core-1.0.0.aar/fb13fb9d4aa5d7e7b666cd2ea96cd7b0/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.amitshekhar.android:debug-db:1.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/dd7d15238f8a6cbc7d7ec5a46a8ae293/AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from [com.amitshekhar.android:debug-db:1.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/dd7d15238f8a6cbc7d7ec5a46a8ae293/AndroidManifest.xml:29:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.amitshekhar.android:debug-db:1.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/dd7d15238f8a6cbc7d7ec5a46a8ae293/AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from [com.amitshekhar.android:debug-db:1.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/dd7d15238f8a6cbc7d7ec5a46a8ae293/AndroidManifest.xml:30:22-73
+provider#com.amitshekhar.DebugDBInitProvider
+ADDED from [com.amitshekhar.android:debug-db:1.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/dd7d15238f8a6cbc7d7ec5a46a8ae293/AndroidManifest.xml:33:9-37:40
+	android:enabled
+		ADDED from [com.amitshekhar.android:debug-db:1.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/dd7d15238f8a6cbc7d7ec5a46a8ae293/AndroidManifest.xml:36:13-35
+	android:authorities
+		ADDED from [com.amitshekhar.android:debug-db:1.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/dd7d15238f8a6cbc7d7ec5a46a8ae293/AndroidManifest.xml:35:13-71
+	android:exported
+		ADDED from [com.amitshekhar.android:debug-db:1.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/dd7d15238f8a6cbc7d7ec5a46a8ae293/AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from [com.amitshekhar.android:debug-db:1.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/dd7d15238f8a6cbc7d7ec5a46a8ae293/AndroidManifest.xml:34:13-63
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/nanxizhang/Desktop/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-88:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4

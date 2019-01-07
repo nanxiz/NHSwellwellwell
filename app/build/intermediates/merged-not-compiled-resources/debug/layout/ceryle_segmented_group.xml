@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content">
+
+    <co.ceryle.segmentedbutton.RoundedCornerLayout
+        android:id="@+id/ceryle_test_group_roundedCornerLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:showDividers="middle"
+            android:id="@+id/main_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"/>
+
+        <ImageView
+            android:id="@+id/right_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="matrix"/>
+
+        <ImageView
+            android:id="@+id/left_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="matrix"/>
+
+        <LinearLayout
+            android:focusable="true"
+            android:clickable="true"
+            android:orientation="horizontal"
+            android:id="@+id/rippleContainer"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+        <LinearLayout
+            android:focusable="false"
+            android:clickable="false"
+            android:orientation="horizontal"
+            android:id="@+id/dividerContainer"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+    </co.ceryle.segmentedbutton.RoundedCornerLayout>
+</LinearLayout>
