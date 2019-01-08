@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Jan 07 19:25:16 GMT 2019
+#Tue Jan 08 08:10:56 GMT 2019
 56.path=checkpoint/lrmodel.pbtxt
 5.base=/Users/nanxizhang/Desktop/MyFirstApp 3/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
 42.base=/Users/nanxizhang/Desktop/MyFirstApp 3/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
@@ -25,7 +25,7 @@
 22.base=/Users/nanxizhang/Desktop/MyFirstApp 3/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
 32.base=/Users/nanxizhang/Desktop/MyFirstApp 3/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
 12.path=checkpoint/lrmodel.ckpt.data-00000-of-00001
-17.set=DEX
+17.set=ASSET
 50.set=ASSET
 26.base=/Users/nanxizhang/Desktop/MyFirstApp 3/app/build/intermediates/transforms/mergeJniLibs/debug/0
 36.base=/Users/nanxizhang/Desktop/MyFirstApp 3/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
@@ -65,7 +65,7 @@
 42.set=ASSET
 53.base=/Users/nanxizhang/Desktop/MyFirstApp 3/app/build/intermediates/transforms/mergeJniLibs/debug/0
 33.path=dataTables.select.min.js
-17.path=classes.dex
+17.path=buttons.dataTables.min.css
 31.set=ASSET
 49.set=NATIVE_RESOURCE
 47.base=/Users/nanxizhang/Desktop/MyFirstApp 3/app/build/intermediates/transforms/mergeJniLibs/debug/0
@@ -82,7 +82,7 @@
 9.baseType=DIRECTORY
 33.base=/Users/nanxizhang/Desktop/MyFirstApp 3/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
 13.path=lib/arm64-v8a/libpl_droidsonroids_gif.so
-17.base=/Users/nanxizhang/Desktop/MyFirstApp 3/app/build/intermediates/transforms/dexMerger/debug/0
+17.base=/Users/nanxizhang/Desktop/MyFirstApp 3/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
 27.set=ASSET
 60.set=NATIVE_RESOURCE
 count=61
@@ -124,13 +124,13 @@ count=61
 58.path=lib/x86_64/libmodpng.so
 7.base=/Users/nanxizhang/Desktop/MyFirstApp 3/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
 44.base=/Users/nanxizhang/Desktop/MyFirstApp 3/app/build/intermediates/transforms/dexMerger/debug/1
-19.set=ASSET
+19.set=DEX
 24.path=_DS_Store
 52.set=NATIVE_RESOURCE
 54.base=/Users/nanxizhang/Desktop/MyFirstApp 3/app/build/intermediates/transforms/mergeJniLibs/debug/0
 34.path=lib/x86/libmodpdfium.so
 3.set=NATIVE_RESOURCE
-18.path=buttons.dataTables.min.css
+18.path=sklr2.py
 20.base=/Users/nanxizhang/Desktop/MyFirstApp 3/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
 41.set=ASSET
 59.set=ASSET
@@ -199,7 +199,7 @@ count=61
 55.base=/Users/nanxizhang/Desktop/MyFirstApp 3/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
 35.path=app.js
 18.set=ASSET
-19.path=sklr2.py
+19.path=classes.dex
 21.base=/Users/nanxizhang/Desktop/MyFirstApp 3/app/build/intermediates/transforms/mergeJniLibs/debug/0
 51.set=ASSET
 49.base=/Users/nanxizhang/Desktop/MyFirstApp 3/app/build/intermediates/transforms/mergeJniLibs/debug/0
@@ -220,7 +220,7 @@ count=61
 9.set=NATIVE_RESOURCE
 15.path=lib/x86_64/libjniPdfium.so
 47.set=NATIVE_RESOURCE
-19.base=/Users/nanxizhang/Desktop/MyFirstApp 3/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+19.base=/Users/nanxizhang/Desktop/MyFirstApp 3/app/build/intermediates/transforms/dexMerger/debug/0
 4.baseType=DIRECTORY
 29.base=/Users/nanxizhang/Desktop/MyFirstApp 3/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
 11.base=/Users/nanxizhang/Desktop/MyFirstApp 3/app/build/intermediates/transforms/mergeJniLibs/debug/0

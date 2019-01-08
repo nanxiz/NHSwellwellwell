@@ -87,7 +87,7 @@ public class First extends AppCompatActivity {
 
         }
         else {
-            Intent intent = new Intent(this, MainActivity.class);
+            Intent intent = new Intent(this, Login.class);
             startActivity(intent);
         }
     }

@@ -179,7 +179,20 @@ public class LiveSensors extends AppCompatActivity {
     }
 
 
+    public void viewShare(View view) {
+        Intent intent = new Intent(this, ShareActivity.class);
+        startActivity(intent);
+    }
 
+    public void viewProfile(View view) {
+        Intent intent = new Intent(this, ProfileActivity.class);
+        startActivity(intent);
+    }
+
+    public void viewSetting(View view) {
+        Intent intent = new Intent(this, SettingsActivity.class);
+        startActivity(intent);
+    }
 
 
     public void viewMain(View view) { //takes the user back to the homepage

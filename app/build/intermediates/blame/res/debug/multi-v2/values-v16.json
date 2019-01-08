@@ -4,7 +4,7 @@
             "outputFile": "/Users/nanxizhang/Desktop/MyFirstApp 3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/4da636900b9d15a5caefbe9be165bab1/res/values-v16/values-v16.xml",
+                    "source": "/Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7bb6a35ff6c4318fd1c4d884f973f7b7/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/7240a7cf4ed0da52bd01801999fd51e0/res/values-v16/values-v16.xml",
+                    "source": "/Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bc8740658655aee7a0c94a334e543f48/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

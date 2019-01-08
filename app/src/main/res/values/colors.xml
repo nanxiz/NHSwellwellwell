@@ -7,6 +7,8 @@
     <color name="colorBlue">#1300FF</color>
     <color name="colorDarkRed">#A42A00</color>
     <color name="Black">#000000</color>
+    <color name="grey">#808080</color>
+
     <color name="White">#ffffff</color>
     <color name="colorNHSGreen">#009639</color>
     <color name="colorNHSGreenTint">#64009639</color>

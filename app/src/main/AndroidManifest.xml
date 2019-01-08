@@ -6,7 +6,6 @@
     <uses-permission android:name="android.permission.READ_SMS" />
     <uses-permission android:name="android.permission.READ_CALL_LOG" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
     <uses-permission
         android:name="android.permission.PACKAGE_USAGE_STATS"
@@ -60,8 +59,9 @@
             android:name=".First"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".WelcomeRegister"
-            android:screenOrientation="portrait" />
+            android:name=".Register"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Dialog.Alert" />
         <activity
             android:name=".AboutPage"
             android:screenOrientation="portrait" />
@@ -82,7 +82,14 @@
                 android:resource="@xml/provider_paths" />
         </provider>
 
-        <activity android:name=".ViewPDFActivity"></activity>
+        <activity android:name=".ViewPDFActivity" />
+        <activity android:name=".ProfileActivity" />
+        <activity
+            android:name=".SettingsActivity"
+            android:label="@string/title_activity_settings"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".ShareActivity" />
+        <activity android:name=".Login"></activity>
     </application>
 
 </manifest>

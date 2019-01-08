@@ -68,8 +68,9 @@
             android:name="com.example.jakesetton.myfirstapp.First"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.example.jakesetton.myfirstapp.WelcomeRegister"
-            android:screenOrientation="portrait" />
+            android:name="com.example.jakesetton.myfirstapp.Register"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Dialog.Alert" />
         <activity
             android:name="com.example.jakesetton.myfirstapp.AboutPage"
             android:screenOrientation="portrait" />
@@ -91,6 +92,13 @@
         </provider>
 
         <activity android:name="com.example.jakesetton.myfirstapp.ViewPDFActivity" />
+        <activity android:name="com.example.jakesetton.myfirstapp.ProfileActivity" />
+        <activity
+            android:name="com.example.jakesetton.myfirstapp.SettingsActivity"
+            android:label="@string/title_activity_settings"
+            android:theme="@style/AppTheme" />
+        <activity android:name="com.example.jakesetton.myfirstapp.ShareActivity" />
+        <activity android:name="com.example.jakesetton.myfirstapp.Login" />
 
         <provider
             android:name="com.amitshekhar.DebugDBInitProvider"

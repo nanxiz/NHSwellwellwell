@@ -271,6 +271,21 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    public void viewProfile(View view) {
+        Intent intent = new Intent(this, ProfileActivity.class);
+        startActivity(intent);
+    }
+
+    public void viewShare(View view) {
+        Intent intent = new Intent(this, ShareActivity.class);
+        startActivity(intent);
+    }
+
+    public void viewSetting(View view) {
+        Intent intent = new Intent(this, SettingsActivity.class);
+        startActivity(intent);
+    }
+
     public void viewlive(View view) {
         if (countedSteps == null) {
             Toast.makeText(MainActivity.this, "Start monitoring in order to view stats!", Toast.LENGTH_LONG).show();

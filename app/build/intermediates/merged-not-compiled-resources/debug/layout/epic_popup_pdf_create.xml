@@ -77,16 +77,42 @@
                     android:text="filename here.pdf"
 
                     />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_gravity="center"
+                    android:orientation="horizontal"
+                    android:layout_height="wrap_content">
+
+                    <Button
+                        android:id="@+id/saveToLocal"
+                        android:layout_width="120dp"
+                        android:layout_height="wrap_content"
+
+                        android:text="Save"
+                        android:textColor="@color/White"
+                        android:background="@drawable/button_pdf_share_round"
+                        android:layout_gravity="center_horizontal"
+
+                        />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="000"
+                        android:textColor="@color/colorTransparent"/>
                 <Button
                     android:id="@+id/sharePDF"
                     android:layout_width="120dp"
                     android:layout_height="wrap_content"
+
                     android:text="Share"
                     android:textColor="@color/White"
                     android:background="@drawable/button_pdf_share_round"
                     android:layout_gravity="center_horizontal"
 
                     />
+
+
+                </LinearLayout>
 
             </LinearLayout>
 

@@ -1,4 +1,4 @@
-#Mon Jan 07 19:25:14 GMT 2019
+#Tue Jan 08 08:10:54 GMT 2019
 base.0=/Users/nanxizhang/Desktop/MyFirstApp 3/app/build/intermediates/transforms/dexMerger/debug/1
 path.1=classes.dex
 renamed.1=classes2.dex

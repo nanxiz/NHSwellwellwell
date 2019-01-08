@@ -229,6 +229,17 @@ public class ScoreHistory extends AppCompatActivity {
         title.setText("Weekly Phone Usage Stats");
     }
 
+
+    public void viewProfile(View view) {
+        Intent intent = new Intent(this, ProfileActivity.class);
+        startActivity(intent);
+    }
+
+    public void viewSetting(View view) {
+        Intent intent = new Intent(this, SettingsActivity.class);
+        startActivity(intent);
+    }
+
     public void viewScore(View view) { //method for button to view scores chart
         stepChart.setVisibility(View.INVISIBLE);
         usageChart.setVisibility(View.INVISIBLE);
@@ -246,6 +257,13 @@ public class ScoreHistory extends AppCompatActivity {
         Intent intent = new Intent(this, MainActivity.class);
         startActivity(intent);
     }
+    public void viewShare(View view) {
+        Intent intent = new Intent(this, ShareActivity.class);
+        startActivity(intent);
+
+    }
+
+
 
     public void viewLive(View view) {
         /*if (!main.isMyServiceRunning(TheService.class)) {
