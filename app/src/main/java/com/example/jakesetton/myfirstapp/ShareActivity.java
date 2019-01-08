@@ -33,6 +33,9 @@ public class ShareActivity extends AppCompatActivity {
     TextView latestScore;
     ImageView closePopup, pdfimg;
 
+    String[] TO = {"your_guardian@gmail.com"};
+    String[] CC = {"next_of_kin@gmail.com"};
+
     Button btnSharePDF;
     Button btnSaveLocal;
 
@@ -137,7 +140,13 @@ public class ShareActivity extends AppCompatActivity {
         //templatePDF.addSubject("Calls made:",String.valueOf(preferences.getInt("callcount", 0)));
 
 
+
+
+
+
         //temporary use:
+        //this is due to original code's fking bug:
+        //the feedback string could be written in to db however he failed to write correct feedback score
         //debug the original db feenback code to get rid of
         int feedbackScore = 0;
         int scoreTemp = res.getInt(8);
@@ -270,6 +279,10 @@ public class ShareActivity extends AppCompatActivity {
         Intent shareIntent = new Intent();
         shareIntent.setAction(Intent.ACTION_SEND);
         shareIntent.putExtra(Intent.EXTRA_STREAM,Path);
+        shareIntent.putExtra(Intent.EXTRA_EMAIL, TO);
+        shareIntent.putExtra(Intent.EXTRA_CC, CC);
+
+
         shareIntent.setType("application/pdf");
         //shareIntent.setPackage("com.whatsapp");
         startActivity(Intent.createChooser(shareIntent,"share"));

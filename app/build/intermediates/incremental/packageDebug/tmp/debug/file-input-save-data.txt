@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Jan 08 08:10:56 GMT 2019
+#Tue Jan 08 09:38:52 GMT 2019
 56.path=checkpoint/lrmodel.pbtxt
 5.base=/Users/nanxizhang/Desktop/MyFirstApp 3/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
 42.base=/Users/nanxizhang/Desktop/MyFirstApp 3/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
