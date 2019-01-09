@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/nanxizhang/Desktop/MyFirstApp 3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v19/values-v19.xml",
+            "outputFile": "/Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v19/values-v19.xml",
             "map": [
                 {
                     "source": "/Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/tutorial-view-v1.0.1.aar/4e4506927f74fc8060663e99fb1e3d0b/res/values-v19/values-v19.xml",

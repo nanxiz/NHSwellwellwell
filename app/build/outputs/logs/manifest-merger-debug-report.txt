@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:2:1-95:12
-INJECTED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:2:1-95:12
-INJECTED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:2:1-95:12
-INJECTED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:2:1-95:12
+ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:2:1-97:12
+INJECTED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:2:1-97:12
+INJECTED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:2:1-97:12
+INJECTED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:2:1-97:12
 MERGED from [com.amitshekhar.android:debug-db:1.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/dd7d15238f8a6cbc7d7ec5a46a8ae293/AndroidManifest.xml:20:1-40:12
 MERGED from [com.android.support:design:28.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/366851078ac6cdabe6b602b610ea41a5/AndroidManifest.xml:17:1-24:12
 MERGED from [com.github.ceryle:SegmentedButton:v1.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/SegmentedButton-v1.0.aar/a0da9e1d3bf28dfe6e1a36fd4f824655/AndroidManifest.xml:2:1-12:12
@@ -46,63 +46,69 @@ MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/nanxizhang/.gradle/c
 MERGED from [com.android.support:interpolator:28.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/7c5f7b69a139ddddeb27bf69e46ae8e6/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:cursoradapter:28.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/2812d634060ecb5d5bfdde9204ac02f1/AndroidManifest.xml:17:1-22:12
 MERGED from [me.everything:providers-core:1.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/providers-core-1.0.0.aar/fb13fb9d4aa5d7e7b666cd2ea96cd7b0/AndroidManifest.xml:2:1-16:12
-INJECTED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:2:1-95:12
-INJECTED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:2:1-95:12
-INJECTED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:2:1-95:12
+INJECTED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:2:1-97:12
+INJECTED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:2:1-97:12
+INJECTED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:2:1-97:12
 	package
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:4:5-48
-		INJECTED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:4:5-48
+		INJECTED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:2:1-95:12
-		INJECTED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:2:1-97:12
+		INJECTED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:3:5-51
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:2:1-95:12
-		INJECTED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:2:1-97:12
+		INJECTED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.READ_SMS
-ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:6:5-67
+ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:6:5-67
 	android:name
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:6:22-64
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:6:22-64
 uses-permission#android.permission.READ_CALL_LOG
-ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:7:5-72
+ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:7:5-72
 	android:name
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:7:22-69
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:7:22-69
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:8:5-80
+ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:8:5-80
 	android:name
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:8:22-77
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:8:22-77
 uses-permission#android.permission.FOREGROUND_SERVICE
-ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:9:5-77
+ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:9:5-77
 	android:name
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:9:22-74
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:9:22-74
+uses-permission#android.permission.INTERNET
+ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:10:5-66
+MERGED from [com.amitshekhar.android:debug-db:1.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/dd7d15238f8a6cbc7d7ec5a46a8ae293/AndroidManifest.xml:29:5-67
+MERGED from [com.amitshekhar.android:debug-db:1.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/dd7d15238f8a6cbc7d7ec5a46a8ae293/AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:10:22-64
 uses-permission#android.permission.PACKAGE_USAGE_STATS
-ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:10:5-12:47
+ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:12:5-14:47
 	tools:ignore
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:12:9-44
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:14:9-44
 	android:name
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:11:9-62
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:13:9-62
 uses-permission#android.permission.RECEIVE_SMS
-ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:13:5-15:47
+ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:15:5-17:47
 	android:protectionLevel
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:15:9-44
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:17:9-44
 	android:name
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:14:9-54
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:16:9-54
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:16:5-81
+ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:18:5-81
 	android:name
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:16:22-78
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:18:22-78
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:17:5-81
+ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:19:5-81
 	android:name
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:17:22-78
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:19:22-78
 application
-ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:19:5-93:19
+ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:21:5-95:19
 MERGED from [com.amitshekhar.android:debug-db:1.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/dd7d15238f8a6cbc7d7ec5a46a8ae293/AndroidManifest.xml:32:5-38:19
 MERGED from [com.amitshekhar.android:debug-db:1.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/dd7d15238f8a6cbc7d7ec5a46a8ae293/AndroidManifest.xml:32:5-38:19
 MERGED from [com.android.support:design:28.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/366851078ac6cdabe6b602b610ea41a5/AndroidManifest.xml:22:5-20
@@ -124,139 +130,139 @@ MERGED from [me.everything:providers-core:1.0.0] /Users/nanxizhang/.gradle/cache
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7bb6a35ff6c4318fd1c4d884f973f7b7/AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:24:9-35
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:26:9-35
 	android:label
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:22:9-41
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:24:9-41
 	android:roundIcon
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:23:9-54
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:25:9-54
 	android:icon
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:21:9-43
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:23:9-43
 	android:allowBackup
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:20:9-35
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:22:9-35
 	android:theme
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:25:9-40
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:27:9-40
 activity#com.example.jakesetton.myfirstapp.MainActivity
-ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:26:9-34:20
+ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:28:9-36:20
 	android:screenOrientation
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:28:13-49
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:30:13-49
 	android:name
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:27:13-41
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:29:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:29:13-33:29
+ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:31:13-35:29
 action#android.intent.action.MAIN
-ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:30:17-69
+ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:32:17-69
 	android:name
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:30:25-66
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:32:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:32:17-77
+ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:34:17-77
 	android:name
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:32:27-74
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:34:27-74
 service#com.example.jakesetton.myfirstapp.TheService
-ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:36:9-38:38
+ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:38:9-40:38
 	android:enabled
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:38:13-35
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:40:13-35
 	android:name
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:37:13-39
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:39:13-39
 activity#com.example.jakesetton.myfirstapp.LiveSensors
-ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:40:9-42:52
+ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:42:9-44:52
 	android:screenOrientation
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:42:13-49
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:44:13-49
 	android:name
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:41:13-40
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:43:13-40
 receiver#com.example.jakesetton.myfirstapp.BootBroadcastReceiver
-ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:44:9-48:20
+ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:46:9-50:20
 	android:name
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:44:19-56
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:46:19-56
 intent-filter#action:name:android.intent.action.BOOT_COMPLETED
-ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:45:13-47:29
+ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:47:13-49:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:46:17-79
+ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:48:17-79
 	android:name
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:46:25-76
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:48:25-76
 receiver#com.example.jakesetton.myfirstapp.Alarm
-ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:49:9-56:20
+ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:51:9-58:20
 	android:enabled
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:51:13-35
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:53:13-35
 	android:exported
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:52:13-36
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:54:13-36
 	android:name
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:50:13-34
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:52:13-34
 activity#com.example.jakesetton.myfirstapp.First
-ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:58:9-60:52
+ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:60:9-62:52
 	android:screenOrientation
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:60:13-49
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:62:13-49
 	android:name
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:59:13-34
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:61:13-34
 activity#com.example.jakesetton.myfirstapp.Register
-ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:61:9-64:67
+ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:63:9-66:67
 	android:screenOrientation
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:63:13-49
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:65:13-49
 	android:theme
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:64:13-64
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:66:13-64
 	android:name
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:62:13-37
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:64:13-37
 activity#com.example.jakesetton.myfirstapp.AboutPage
-ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:65:9-67:52
+ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:67:9-69:52
 	android:screenOrientation
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:67:13-49
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:69:13-49
 	android:name
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:66:13-38
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:68:13-38
 activity#com.example.jakesetton.myfirstapp.MonitoringInfo
-ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:68:9-70:52
+ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:70:9-72:52
 	android:screenOrientation
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:70:13-49
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:72:13-49
 	android:name
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:69:13-43
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:71:13-43
 activity#com.example.jakesetton.myfirstapp.ScoreHistory
-ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:71:9-73:52
+ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:73:9-75:52
 	android:screenOrientation
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:73:13-49
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:75:13-49
 	android:name
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:72:13-41
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:74:13-41
 provider#android.support.v4.content.FileProvider
-ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:75:9-83:20
+ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:77:9-85:20
 	android:grantUriPermissions
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:79:13-47
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:81:13-47
 	android:authorities
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:77:13-77
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:79:13-77
 	android:exported
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:78:13-37
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:80:13-37
 	android:name
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:76:13-67
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:78:13-67
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:80:13-82:58
+ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:82:13-84:58
 	android:resource
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:82:17-55
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:84:17-55
 	android:name
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:81:17-67
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:83:17-67
 activity#com.example.jakesetton.myfirstapp.ViewPDFActivity
-ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:85:9-53
+ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:87:9-53
 	android:name
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:85:19-50
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:87:19-50
 activity#com.example.jakesetton.myfirstapp.ProfileActivity
-ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:86:9-53
+ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:88:9-53
 	android:name
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:86:19-50
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:88:19-50
 activity#com.example.jakesetton.myfirstapp.SettingsActivity
-ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:87:9-90:47
+ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:89:9-92:47
 	android:label
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:89:13-60
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:91:13-60
 	android:theme
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:90:13-44
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:92:13-44
 	android:name
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:88:13-45
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:90:13-45
 activity#com.example.jakesetton.myfirstapp.ShareActivity
-ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:91:9-51
+ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:93:9-51
 	android:name
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:91:19-48
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:93:19-48
 activity#com.example.jakesetton.myfirstapp.Login
-ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:92:9-52
+ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:94:9-52
 	android:name
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:92:19-40
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:94:19-40
 uses-sdk
-INJECTED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml
-INJECTED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml
 MERGED from [com.amitshekhar.android:debug-db:1.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/dd7d15238f8a6cbc7d7ec5a46a8ae293/AndroidManifest.xml:25:5-27:41
 MERGED from [com.amitshekhar.android:debug-db:1.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/dd7d15238f8a6cbc7d7ec5a46a8ae293/AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:design:28.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/366851078ac6cdabe6b602b610ea41a5/AndroidManifest.xml:20:5-44
@@ -339,20 +345,16 @@ MERGED from [com.android.support:cursoradapter:28.0.0] /Users/nanxizhang/.gradle
 MERGED from [com.android.support:cursoradapter:28.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/2812d634060ecb5d5bfdde9204ac02f1/AndroidManifest.xml:20:5-44
 MERGED from [me.everything:providers-core:1.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/providers-core-1.0.0.aar/fb13fb9d4aa5d7e7b666cd2ea96cd7b0/AndroidManifest.xml:7:5-9:41
 MERGED from [me.everything:providers-core:1.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/providers-core-1.0.0.aar/fb13fb9d4aa5d7e7b666cd2ea96cd7b0/AndroidManifest.xml:7:5-9:41
-INJECTED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml
-INJECTED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml
-		ADDED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml
-uses-permission#android.permission.INTERNET
-ADDED from [com.amitshekhar.android:debug-db:1.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/dd7d15238f8a6cbc7d7ec5a46a8ae293/AndroidManifest.xml:29:5-67
-	android:name
-		ADDED from [com.amitshekhar.android:debug-db:1.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/dd7d15238f8a6cbc7d7ec5a46a8ae293/AndroidManifest.xml:29:22-64
+		INJECTED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from [com.amitshekhar.android:debug-db:1.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/dd7d15238f8a6cbc7d7ec5a46a8ae293/AndroidManifest.xml:30:5-76
 	android:name
@@ -368,4 +370,4 @@ ADDED from [com.amitshekhar.android:debug-db:1.0.0] /Users/nanxizhang/.gradle/ca
 	android:name
 		ADDED from [com.amitshekhar.android:debug-db:1.0.0] /Users/nanxizhang/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/dd7d15238f8a6cbc7d7ec5a46a8ae293/AndroidManifest.xml:34:13-63
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from /Users/nanxizhang/Desktop/MyFirstApp 3/app/src/main/AndroidManifest.xml:2:1-95:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
+IMPLIED from /Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/src/main/AndroidManifest.xml:2:1-97:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4

@@ -18,14 +18,14 @@
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.116"
+        app:layout_constraintHorizontal_bias="0.153"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.1" />
+        app:layout_constraintVertical_bias="0.052" />
 
     <TextView
         android:id="@+id/textView12"
-        android:layout_width="346dp"
+        android:layout_width="317dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
@@ -37,10 +37,10 @@
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintHorizontal_bias="0.631"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.279" />
+        app:layout_constraintVertical_bias="0.202" />
 
     <Button
         android:id="@+id/statsenable"
@@ -50,35 +50,35 @@
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
-        android:background="@drawable/button_light_blue_round"
+        android:background="@drawable/button_round_grey_stroke"
         android:onClick="statslaunch"
         android:text="  Go to settings  "
-        android:textColor="@color/White"
+        android:textColor="@color/grey"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.481"
+        app:layout_constraintHorizontal_bias="0.502"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView12"
-        app:layout_constraintVertical_bias="0.164" />
+        app:layout_constraintVertical_bias="0.155" />
 
     <Button
         android:id="@+id/mainstarter"
         style="@style/Widget.AppCompat.Button.Borderless.Colored"
         android:layout_width="105dp"
         android:layout_height="56dp"
-        android:layout_marginBottom="8dp"
-        android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
-        android:textColor="@color/colorNHSDarkBlueTint"
         android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
         android:onClick="mainlaunch"
-        android:text="All Done? Let's go! >"
+        android:text="All Done? Let's go>"
+        android:textColor="@color/colorNHSGreenTint"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.92"
+        app:layout_constraintHorizontal_bias="0.878"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/statsenable"
-        app:layout_constraintVertical_bias="0.68" />
+        app:layout_constraintVertical_bias="0.864" />
 
 
 </android.support.constraint.ConstraintLayout>

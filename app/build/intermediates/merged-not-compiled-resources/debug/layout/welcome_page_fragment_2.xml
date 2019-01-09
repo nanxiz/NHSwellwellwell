@@ -23,28 +23,44 @@
         android:textSize="25sp"
         app:layout_constraintBottom_toTopOf="@+id/textView20"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.507"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.609" />
+        app:layout_constraintVertical_bias="0.0" />
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="315dp"
+        android:layout_height="229dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="96dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:adjustViewBounds="true"
+        android:maxWidth="300dp"
+        android:maxHeight="300dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/the_5_ways_of_wellbeing"
+        app:layout_constraintBottom_toTopOf="@+id/textView20"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.679"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
         android:id="@+id/textView20"
-        android:layout_width="359dp"
-        android:layout_height="410dp"
+        android:layout_width="324dp"
+        android:layout_height="145dp"
 
-        android:text="The 5 Ways to Wellbeing are a set of steps that we can all take to improve our mental wellbeing. They are as follows: \n\nConnect - with people around you, including friends and family \nBe Active - take a walk, go cycling, go to the gym, etc... \nKeep Learning - for example, pick up a hobby or look up a recipe \nGive To Others - anything from a small act of kindness like a smile, to something like volunteering \nBe Mindful - appreciate your experiences and the world around you, and be more aware of your thoughts and feelings \n\nYour weekly score rates the extent to which you have followed these steps during the week, based on your phone usage."
+        android:text="We generate your weekly score by monitoring your wellbeing activity on your phone. This rates the extent to which you have followed these steps during the week."
         android:textAlignment="textStart"
         android:textColor="@color/White"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.64"
+        app:layout_constraintHorizontal_bias="0.733"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.726" />
-
-
+        app:layout_constraintVertical_bias="0.803" />
 
 
 </android.support.constraint.ConstraintLayout>

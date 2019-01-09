@@ -12,9 +12,9 @@
         android:id="@+id/textView17"
 
         android:layout_width="wrap_content"
-        android:layout_height="46dp"
+        android:layout_height="37dp"
         android:layout_marginStart="8dp"
-        android:layout_marginTop="52dp"
+        android:layout_marginTop="32dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
         android:text="Privacy"
@@ -23,25 +23,11 @@
         android:textSize="25sp"
         app:layout_constraintBottom_toTopOf="@+id/textView20"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.507"
+        app:layout_constraintHorizontal_bias="0.501"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.609" />
+        app:layout_constraintVertical_bias="0.923" />
 
-    <TextView
-        android:id="@+id/textView20"
-        android:layout_width="359dp"
-        android:layout_height="410dp"
-
-        android:textAlignment="textStart"
-        android:textColor="@color/White"
-        android:textSize="20sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.64"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.726" />
 
     <Button
         android:id="@+id/button3"
@@ -60,10 +46,10 @@
 
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.24"
+        app:layout_constraintHorizontal_bias="0.201"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView17"
-        app:layout_constraintVertical_bias="0.884" />
+        app:layout_constraintVertical_bias="0.923" />
 
     <Button
         android:id="@+id/button4"
@@ -74,8 +60,8 @@
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
         android:background="@drawable/button_blue_round"
-        android:text="I Disagree"
         android:onClick="privacyInfo"
+        android:text="I Disagree"
 
         android:textColor="@color/colorNHSBlueTint"
 
@@ -84,8 +70,40 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/button3"
         app:layout_constraintTop_toBottomOf="@+id/textView17"
-        app:layout_constraintVertical_bias="0.885" />
+        app:layout_constraintVertical_bias="0.923" />
 
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="344dp"
+        android:layout_height="388dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.666"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView17"
+        app:layout_constraintVertical_bias="0.0">
+
+        <TextView
+            android:id="@+id/textView28"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:background="@color/WhiteTrans"
+            android:text="You will have been referred to this app by your chosen health and wellbeing provider. They would like you to consider how your phone usage is an indicator of your wellbeing. They would also like you to share this score with them. Any data you share with this provider cannot be attributed to you if you turn on a privacy filter. You are in control. How they would use attributable and non-attributable data you share with them via this app is stipulated in the provider's policies.\n\nThe 5 Ways to Wellbeing are a set of steps that we can all take to improve our mental wellbeing. They are as follows: \n\nConnect - with people around you, including friends and family \nBe Active - take a walk, go cycling, go to the gym, etc... \nKeep Learning - for example, pick up a hobby or look up a recipe \nGive To Others - anything from a small act of kindness like a smile, to something like volunteering \nBe Mindful - appreciate your experiences and the world around you, and be more aware of your thoughts and feelings \n\nYour weekly score rates the extent to which you have followed these steps during the week, based on your phone usage.\n\nThe app monitors your phone usage and gives you an indication of your potential wellbeing based on your movement and app usage. If you do not want to share this score as personally identifiable data with the organisation who referred you to it, please click 'Turn on Privacy Filter."
+            app:layout_constraintBottom_toBottomOf="@+id/textView20"
+            app:layout_constraintEnd_toEndOf="@+id/scrollView2"
+            app:layout_constraintHorizontal_bias="0.535"
+            app:layout_constraintStart_toStartOf="@+id/scrollView2"
+            app:layout_constraintTop_toTopOf="@+id/scrollView2"
+            app:layout_constraintVertical_bias="0.007" />
+
+    </ScrollView>
 
 
 

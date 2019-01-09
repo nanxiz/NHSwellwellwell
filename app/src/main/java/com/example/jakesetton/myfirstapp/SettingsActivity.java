@@ -6,6 +6,7 @@ import android.app.usage.UsageStatsManager;
 import android.content.Context;
 import android.content.Intent;
 import android.content.pm.PackageManager;
+import android.net.Uri;
 import android.os.Bundle;
 import android.provider.Settings;
 import android.support.design.widget.FloatingActionButton;
@@ -50,6 +51,18 @@ public class SettingsActivity extends AppCompatActivity {
     public void viewSetting(View view) {
         Intent intent = new Intent(this, SettingsActivity.class);
         startActivity(intent);
+    }
+
+    public void infoscreen(View view){
+        Intent intent = new Intent(this, MonitoringInfo.class);
+        //add bundle later
+        startActivity(intent);
+    }
+
+    public void launchBrowser(){
+        Intent browserIntent = new Intent(Intent.ACTION_VIEW,
+                Uri.parse("https://www.nhs.uk/conditions/stress-anxiety-depression/improve-mental-wellbeing/"));
+        startActivity(browserIntent);
     }
 
     public void statslaunch(View view) {

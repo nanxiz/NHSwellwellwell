@@ -599,6 +599,7 @@ bool abc_config_actionMenuItemAllCaps
 bool mtrl_btn_textappearance_all_caps
 color Black
 color White
+color WhiteTrans
 color abc_background_cache_hint_selector_material_dark
 color abc_background_cache_hint_selector_material_light
 color abc_btn_colored_borderless_text_material
@@ -1061,8 +1062,10 @@ drawable avd_hide_password
 drawable avd_show_password
 drawable bluequ
 drawable button_blue_round
+drawable button_gradient_blue_stroke
 drawable button_light_blue_round
 drawable button_pdf_share_round
+drawable button_round_grey_stroke
 drawable button_square
 drawable button_square_white
 drawable calendar
@@ -1118,6 +1121,8 @@ drawable rectangle
 drawable ring
 drawable socialmediagif
 drawable textmessagegif
+drawable the5ways_wellbeing
+drawable the_5_ways_of_wellbeing
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable walkinggif
@@ -1341,6 +1346,7 @@ id scroll
 id scrollIndicatorDown
 id scrollIndicatorUp
 id scrollView
+id scrollView2
 id scrollable
 id search_badge
 id search_bar
@@ -1416,6 +1422,7 @@ id textView24
 id textView25
 id textView26
 id textView27
+id textView28
 id textView29
 id textView3
 id textView4
