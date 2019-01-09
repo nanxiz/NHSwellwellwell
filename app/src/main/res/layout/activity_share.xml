@@ -12,6 +12,8 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
+        android:showDividers="middle"
+        android:divider="@drawable/empty_short_divider"
         android:layout_marginBottom="8dp"
         android:orientation="vertical"
         app:layout_constraintBottom_toBottomOf="@+id/rectangle"
@@ -42,25 +44,19 @@
             android:id="@+id/btnSharePDF"
             android:layout_width="match_parent"
             android:layout_height="120dp"
-            android:textColor="@color/White"
-            android:text="Share your score as pdf"
             android:background="@drawable/button_pdf_share_round"
+            android:text="Share score as pdf"
+            android:textColor="@color/White"
             tools:layout_editor_absoluteX="10dp"
             tools:layout_editor_absoluteY="151dp" />
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:text="0"
-            android:textAlignment="center"
-            android:textColor="@color/colorTransparent"
-            android:textSize="18dp" />
+
         <Button
             android:id="@+id/btnShareAnonymously"
             android:layout_width="match_parent"
             android:layout_height="120dp"
             android:textColor="@color/White"
             android:background="@drawable/button_light_blue_round"
-            android:text="Share Anonymously"
+            android:text="Share score Anonymously"
             tools:layout_editor_absoluteX="16dp"
             tools:layout_editor_absoluteY="290dp" />
 

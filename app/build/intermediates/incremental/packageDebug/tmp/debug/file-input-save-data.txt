@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Jan 09 01:26:32 GMT 2019
+#Wed Jan 09 01:34:32 GMT 2019
 56.path=jquery.min.js
 5.base=/Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/build/intermediates/transforms/mergeJniLibs/debug/0
 42.base=/Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
