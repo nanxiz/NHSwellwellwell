@@ -731,7 +731,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void viewHistory(View view) {
         if (countedSteps == null || isMyServiceRunning(TheService.class) == false) {
-            Toast.makeText(MainActivity.this, "Start monitoring in order to view stats!", Toast.LENGTH_LONG).show();
+            //Toast.makeText(MainActivity.this, "Start monitoring in order to view stats!", Toast.LENGTH_LONG).show();
             AlertDialog.Builder dialog = new AlertDialog.Builder(this);
             String message ="Start monitoring in order to view stats!";
             dialog.setMessage(message);
