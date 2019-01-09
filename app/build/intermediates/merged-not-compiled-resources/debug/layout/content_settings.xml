@@ -46,6 +46,8 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
             android:layout_marginBottom="8dp"
+            android:showDividers="middle"
+            android:divider="@drawable/empty_short_divider"
             android:orientation="vertical"
             app:layout_constraintBottom_toBottomOf="@+id/textView9"
             app:layout_constraintTop_toBottomOf="@+id/cardView"
@@ -55,6 +57,7 @@
 
             <android.support.v7.widget.CardView
                 android:layout_width="match_parent"
+                android:onClick="EditGuardian"
                 android:layout_height="wrap_content">
 
                 <TextView
@@ -83,12 +86,27 @@
 
             <android.support.v7.widget.CardView
                 android:layout_width="match_parent"
+                android:onClick="launchBrowser"
                 android:layout_height="wrap_content">
 
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="  Learn more"
+                    android:text="  Learn more about wellbeing"
+                    android:textColor="@color/Black"
+                    android:textSize="25dp" />
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+android:onClick="Logoff"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="  Log off"
                     android:textColor="@color/Black"
                     android:textSize="25dp" />
 

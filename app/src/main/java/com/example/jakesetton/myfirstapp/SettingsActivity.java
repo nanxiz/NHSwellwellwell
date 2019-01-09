@@ -4,6 +4,7 @@ import android.Manifest;
 import android.app.usage.UsageStats;
 import android.app.usage.UsageStatsManager;
 import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.net.Uri;
@@ -12,6 +13,7 @@ import android.provider.Settings;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
 import android.support.v4.app.ActivityCompat;
+import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
@@ -52,6 +54,10 @@ public class SettingsActivity extends AppCompatActivity {
         Intent intent = new Intent(this, SettingsActivity.class);
         startActivity(intent);
     }
+    public void Logoff(View view) {
+        Intent intent = new Intent(this, Login.class);
+        startActivity(intent);
+    }
 
     public void infoscreen(View view){
         Intent intent = new Intent(this, MonitoringInfo.class);
@@ -59,7 +65,20 @@ public class SettingsActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-    public void launchBrowser(){
+    public void EditGuardian(View view){
+        AlertDialog.Builder dialog = new AlertDialog.Builder(this);
+        String message = "implementing profile";
+        dialog.setMessage(message);
+        dialog.setPositiveButton("Ok", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialogInterface, int i) {
+            }
+        });
+        dialog.show();
+
+    }
+
+    public void launchBrowser(View view){
         Intent browserIntent = new Intent(Intent.ACTION_VIEW,
                 Uri.parse("https://www.nhs.uk/conditions/stress-anxiety-depression/improve-mental-wellbeing/"));
         startActivity(browserIntent);

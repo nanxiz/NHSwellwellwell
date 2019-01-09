@@ -1083,6 +1083,7 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable emoticons
+drawable empty_short_divider
 drawable history
 drawable homepage
 drawable ic_accessibility_grey_24dp

@@ -288,7 +288,17 @@ public class MainActivity extends AppCompatActivity {
 
     public void viewlive(View view) {
         if (countedSteps == null) {
-            Toast.makeText(MainActivity.this, "Start monitoring in order to view stats!", Toast.LENGTH_LONG).show();
+            //Toast.makeText(MainActivity.this, "Start monitoring in order to view stats!", Toast.LENGTH_LONG).show();
+
+            AlertDialog.Builder dialog = new AlertDialog.Builder(this);
+            String message ="Start monitoring in order to view Activity!";
+            dialog.setMessage(message);
+            dialog.setPositiveButton("Ok", new DialogInterface.OnClickListener() {
+                @Override
+                public void onClick(DialogInterface dialogInterface, int i) {
+                }
+            });
+            dialog.show();
             return;
         }
         Intent intent = new Intent(this, LiveSensors.class);
@@ -301,6 +311,15 @@ public class MainActivity extends AppCompatActivity {
         }
         else if (isMyServiceRunning(TheService.class) == false) {
             Toast.makeText(MainActivity.this, "Start monitoring in order to view stats!", Toast.LENGTH_LONG).show();
+            AlertDialog.Builder dialog = new AlertDialog.Builder(this);
+            String message ="Start monitoring in order to view Activity!";
+            dialog.setMessage(message);
+            dialog.setPositiveButton("Ok", new DialogInterface.OnClickListener() {
+                @Override
+                public void onClick(DialogInterface dialogInterface, int i) {
+                }
+            });
+            dialog.show();
             return;
         }
         startActivity(intent);
@@ -713,10 +732,30 @@ public class MainActivity extends AppCompatActivity {
     public void viewHistory(View view) {
         if (countedSteps == null || isMyServiceRunning(TheService.class) == false) {
             Toast.makeText(MainActivity.this, "Start monitoring in order to view stats!", Toast.LENGTH_LONG).show();
+            AlertDialog.Builder dialog = new AlertDialog.Builder(this);
+            String message ="Start monitoring in order to view stats!";
+            dialog.setMessage(message);
+            dialog.setPositiveButton("Ok", new DialogInterface.OnClickListener() {
+                @Override
+                public void onClick(DialogInterface dialogInterface, int i) {
+                }
+            });
+            dialog.show();
+
+
             return;
         }
         if (myDb.isdbempty()) {
-            Toast.makeText(MainActivity.this, "No scores logged yet! Scores will be available from the end of the first week.", Toast.LENGTH_LONG).show();
+            //Toast.makeText(MainActivity.this, "No scores logged yet! Scores will be available from the end of the first week.", Toast.LENGTH_LONG).show();
+            AlertDialog.Builder dialog = new AlertDialog.Builder(this);
+            String message ="No scores logged yet! Scores will be available from the end of the first week.";
+            dialog.setMessage(message);
+            dialog.setPositiveButton("Ok", new DialogInterface.OnClickListener() {
+                @Override
+                public void onClick(DialogInterface dialogInterface, int i) {
+                }
+            });
+            dialog.show();
             return;
         }
         Intent intent = new Intent(this, ScoreHistory.class);
