@@ -161,4 +161,21 @@ public class DatabaseHelper extends SQLiteOpenHelper {
         }
         return true;
     }
+
+    public boolean noFeedback(){
+        SQLiteDatabase db = this.getWritableDatabase();
+        Cursor res = db.rawQuery("SELECT COUNT(*) FROM " + TABLE_NAME_2, null);
+        if (res != null) {
+            res.moveToFirst();
+            if (res.getInt (0) == 0) {
+                return true;
+            }
+            else {
+                return false;
+            }
+        }
+        return true;
+    }
+
+
 }

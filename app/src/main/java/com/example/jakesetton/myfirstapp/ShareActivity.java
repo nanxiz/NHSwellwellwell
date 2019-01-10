@@ -79,12 +79,18 @@ public class ShareActivity extends AppCompatActivity {
                             requestPermissions(permissions, STORAGE_CODE);
                         } else {
                             //permission granted
+                            if(!myDb.noFeedback()){
                             makePdf();
+
+                            }else Toast.makeText(getApplicationContext(),"No feedback given yet! Please share your feedback.", Toast.LENGTH_LONG).show();
 
                         }
 
                     } else {
-                        makePdf();
+                        if(!myDb.noFeedback()){
+                            makePdf();
+                        }else Toast.makeText(getApplicationContext(),"No feedback given yet! Please share your feedback.", Toast.LENGTH_LONG).show();
+
                     }
                 }else{Toast.makeText(getApplicationContext(),"No weekly scores to share yet! Please wait.", Toast.LENGTH_LONG).show();
                 }

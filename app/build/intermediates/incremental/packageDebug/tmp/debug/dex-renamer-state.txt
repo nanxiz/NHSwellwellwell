@@ -1,4 +1,4 @@
-#Thu Jan 10 17:02:17 GMT 2019
+#Thu Jan 10 21:26:56 GMT 2019
 base.0=/Users/nanxizhang/Documents/GitHub/NHSwellwellwell/app/build/intermediates/transforms/dexMerger/debug/0
 path.1=classes.dex
 renamed.1=classes2.dex
