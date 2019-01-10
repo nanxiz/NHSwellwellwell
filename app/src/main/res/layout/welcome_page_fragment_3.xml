@@ -17,7 +17,7 @@
         android:layout_marginTop="32dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
-        android:text="Privacy"
+        android:text="Privacy Policy"
         android:textStyle="bold"
         android:textAlignment="textStart"
         android:textColor="@color/White"
@@ -97,7 +97,41 @@
             android:layout_marginBottom="8dp"
             android:textAlignment="textStart"
             android:background="@color/WhiteTrans"
-            android:text="You will have been referred to this app by your chosen health and wellbeing provider. They would like you to consider how your phone usage is an indicator of your wellbeing. They would also like you to share this score with them. Any data you share with this provider cannot be attributed to you if you turn on a privacy filter. You are in control. How they would use attributable and non-attributable data you share with them via this app is stipulated in the provider's policies.\n\nThe 5 Ways to Wellbeing are a set of steps that we can all take to improve our mental wellbeing. They are as follows: \n\nConnect - with people around you, including friends and family \nBe Active - take a walk, go cycling, go to the gym, etc... \nKeep Learning - for example, pick up a hobby or look up a recipe \nGive To Others - anything from a small act of kindness like a smile, to something like volunteering \nBe Mindful - appreciate your experiences and the world around you, and be more aware of your thoughts and feelings \n\nYour weekly score rates the extent to which you have followed these steps during the week, based on your phone usage.\n\nThe app monitors your phone usage and gives you an indication of your potential wellbeing based on your movement and app usage. If you do not want to share this score as personally identifiable data with the organisation who referred you to it, please click 'Turn on Privacy Filter."
+            android:text="What information do we collect?\n
+
+\nWe collect Personal Information that you provide, for example when you enter such information into form fields in our Services. We may also collect information that is relayed to us automatically by the devices or applications through which you use or access our Services.
+
+Additionally, we may obtain certain personal data about you from third-party sources that we may use to serve our legitimate interests, comply with legal obligations, perform a contract or act in accordance with your consent.
+
+Information that you provide may include:\n\n
+
+Contact information including your name, home address, email address and phone number;\n\n
+
+Demographic information including your age, information about your household, product preferences and other interests; and
+
+Online purchase information including payment card information, purchase details and other transaction information.
+
+Information collected automatically may include:\n\n
+
+Location information including latitude, longitude and date and time. Our Services collect information about locations you visit using your device’s GPS coordinates. You can set your device to not allow our Services to access this information. By default, this functionality is turned off. You must enable this functionality to start collecting location information. The precision of this data varies greatly and is determined by factors controlled by your device and/or mobile service provider;
+
+Cookies, analytics and related technologies. If you access our website(s), the website(s) may use cookies to distinguish you from other users. Information collected via cookies may also be used to improve our website(s) and improve your experience on our website(s);
+
+Log files including IP addresses, browser type, internet service provider, referring/exit pages, operating system, date/time stamp and/or clickstream data;
+
+We collect information about how long and when you are using your mobile device. We also collect information on what apps you use; and
+
+We also collect app usage information, such as error logs and crash recovery logs.\n\n
+
+Information we may obtain from third-party sources may include:\n
+
+\nPersonal Information obtained from business partners and service providers, such as payment processors and analytics providers that perform services on our behalf. Some of these partners have access to Personal Information about you that we may not otherwise have (for example, where you sign up directly with that provider) and may share some or all of this information with us;
+
+\n\nPersonal Information obtained from third-party platforms that may allow you to login to our Services, such as a single sign-on service. If you are able to register and login to our services through a third-party platform, you allow us to access and collect information from your third-party account as permitted under the settings and privacy policy of that platform; and
+
+\n\nPersonal Information from other third-party sources. We may receive additional Personal Information from third-party sources, such as credit reference agencies and public databases, that we may append to existing consumer information, such as email address verification.
+
+\n\nYou will have been referred to this app by your chosen health and wellbeing provider. They would like you to consider how your phone usage is an indicator of your wellbeing. They would also like you to share this score with them. Any data you share with this provider cannot be attributed to you if you turn on a privacy filter. You are in control. How they would use attributable and non-attributable data you share with them via this app is stipulated in the provider's policies.\n\nThe 5 Ways to Wellbeing are a set of steps that we can all take to improve our mental wellbeing. They are as follows: \n\nConnect - with people around you, including friends and family \nBe Active - take a walk, go cycling, go to the gym, etc... \nKeep Learning - for example, pick up a hobby or look up a recipe \nGive To Others - anything from a small act of kindness like a smile, to something like volunteering \nBe Mindful - appreciate your experiences and the world around you, and be more aware of your thoughts and feelings \n\nYour weekly score rates the extent to which you have followed these steps during the week, based on your phone usage.\n\nThe app monitors your phone usage and gives you an indication of your potential wellbeing based on your movement and app usage. If you do not want to share this score as personally identifiable data with the organisation who referred you to it, please click 'Turn on Privacy Filter."
             app:layout_constraintBottom_toBottomOf="@+id/textView20"
             app:layout_constraintEnd_toEndOf="@+id/scrollView2"
             app:layout_constraintHorizontal_bias="0.535"

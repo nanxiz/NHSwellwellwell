@@ -682,7 +682,7 @@ public class MainActivity extends AppCompatActivity {
                         myDb.insertFeedback(newscore, filteredresponse);
                     } else {
                         //textViewtmp.setText("You chose " + choice);
-                        myDb.insertFeedback(score, choice);
+                        myDb.insertFeedback(newscore, choice);
                     }
 
                 }
