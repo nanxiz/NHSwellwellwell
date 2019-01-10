@@ -1306,6 +1306,7 @@ id next
 id nextKin
 id none
 id normal
+id note
 id notification_background
 id notification_main_column
 id notification_main_column_container

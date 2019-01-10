@@ -33,8 +33,7 @@ public class ShareActivity extends AppCompatActivity {
     TextView latestScore;
     ImageView closePopup, pdfimg;
 
-    String[] TO = {"your_guardian@gmail.com"};
-    String[] CC = {"next_of_kin@gmail.com"};
+
 
     Button btnSharePDF;
     Button btnSaveLocal;
@@ -224,6 +223,8 @@ public class ShareActivity extends AppCompatActivity {
         ShowCreatePDFPopup(templatePDF.getFileName());
 
     }
+    String[] TO = {"your_guardian@gmail.com"};
+    String[] CC = {"next_of_kin@gmail.com"};
 
     private void ShowCreatePDFPopup(final String filename) {
         epicDialog.setContentView(R.layout.epic_popup_pdf_create);
